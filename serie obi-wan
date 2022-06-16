@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR green]||PIRATE-Br+||[//COLOR] [COLOR yellow][B]Obi-Wan Kenobi - 1ª Temporada[/B][/COLOR] </title>
+<title>[COLOR yellow][B]Obi-Wan Kenobi - 1ª Temporada[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
 <thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/05/obi-wan-kenobi-640x800.jpg</thumbnail>
 </item> 
@@ -27,6 +27,15 @@
 <genre>Ação | Aventura | Ficção</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>[COLOR white][B]Obi-Wan Kenobi - EP 05[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a77bff42159eeca18d42f87e19f5d773f202ea4</link>
+<thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/05/obi-wan-kenobi-640x800.jpg</thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<duration>3000</duration>
+</item> 
+
 
 
 <item>
@@ -68,6 +77,14 @@
 <item>
 <title>[COLOR white][B]Obi-Wan Kenobi - EP 04 [4K] Leg[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4a405c2b11a35dfc6063d1a6f71cc57dc2a7d67</link>
+<thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/05/obi-wan-kenobi-640x800.jpg</thumbnail>
+<genre>Ação | Aventura | Ficção</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>[COLOR white][B]Obi-Wan Kenobi - EP 05 [4K] [/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:782d53559edf50f35aa5bd542145691c95b8fc56</link>
 <thumbnail>https://portalpopline.com.br/wp-content/uploads/2022/05/obi-wan-kenobi-640x800.jpg</thumbnail>
 <genre>Ação | Aventura | Ficção</genre>
 <duration>3000</duration>
