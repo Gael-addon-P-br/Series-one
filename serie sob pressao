@@ -253,3 +253,10 @@
 <genre></genre>
 <info>PIRATE-BR+</info>
 </item> 
+
+<item>
+<title>Episodio 05-6</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e881abc025e1747efbda8b345ce6ca4fd8cfe4ed</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oNNiRsj6l94hiwxDyGyrXSoFrcC.jpg</thumbnail>
+<genre></genre>
+</item> 
