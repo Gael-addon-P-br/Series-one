@@ -1,7 +1,7 @@
 ///////WESTWORLD
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<title>1ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7b95079fe67b6d1158138a7ffb2e9e99c06142</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kVQAR6TBW7zTYVWRjFGBcDKCHsD.jpg</thumbnail>
 <genre></genre>
@@ -10,7 +10,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<title>2ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f72c70000eba04e8154e0063dae762d0878d2e07</link>
 <thumbnail></thumbnail>
 <genre></genre>
@@ -19,36 +19,70 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+<title>[COLOR yellow]3ª Temporada[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 01[/B][/COLOR] </title>
+<title>Episodio 01</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bf8821075fabba59f28cffeef600e4ea41ae87</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 02[/B][/COLOR] </title>
+<title>Episodio 02</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791301e20925b320e229d0160581ab26afa788a5</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 03[/B][/COLOR] </title>
+<title>Episodio 03</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6018238ac11ad4b8eb3245947fa6277d9d0ec43c</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 04 ao 05[/B][/COLOR] </title>
+<title>Episodio 04 ao 05</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c9963af17e2cb2ba4ea13919241b5b04d9ada7f</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
 <genre></genre>
 </item> 
 
+<item>
+<title>Episodio 06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24494ded76fb26c6cefa9a3dccc96470d49efb4e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>Episodio 07</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6865efe42b6c878af47fd833f84256813caa5199</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>Episodio 08</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28909077f8f25e30bd6032452023c17e28d76875</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4iAXLyy383wBxhZ8YTdK5Q37jk0.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR yellow]4ª Temporada[/COLOR]</title>
+<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcH8Fe6Jtj1bVpCt209B_kfjr9QdpR_GP8vAcmXCmYC-pjiOmTmLX762d76lrFvqkkVDpEOZX4IHm6bd6S9cTnAbv8pSzbdgQsNp11ANtnncb8FD2nnhhU0weNoJLEpbA1N0r3gDuqaaZrfqL27Uw_MDc4isUuZPDDXzIBhXbtpghtFjoD0E_3SRgqXQ/s350/Westworld%20s4.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>Episodio 01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17ed4fad8b5fe56b6e6a4772d62a64ddcb3659e8</link>
+<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcH8Fe6Jtj1bVpCt209B_kfjr9QdpR_GP8vAcmXCmYC-pjiOmTmLX762d76lrFvqkkVDpEOZX4IHm6bd6S9cTnAbv8pSzbdgQsNp11ANtnncb8FD2nnhhU0weNoJLEpbA1N0r3gDuqaaZrfqL27Uw_MDc4isUuZPDDXzIBhXbtpghtFjoD0E_3SRgqXQ/s350/Westworld%20s4.jpg</thumbnail>
+<genre></genre>
+</item> 
