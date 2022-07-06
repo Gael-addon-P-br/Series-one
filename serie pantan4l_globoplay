@@ -576,3 +576,11 @@
 <duration>3000</duration>
 <info></info>
 </item> 
+
+<item>
+<title>Pantanal - EP 85</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cd8d56a816726b62b2d3d950bc370818a09a438</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
