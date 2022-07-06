@@ -584,3 +584,11 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Pantanal - EP 86</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0a1985cb82d25aa14edcc675ea4b378f64ecd03</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
