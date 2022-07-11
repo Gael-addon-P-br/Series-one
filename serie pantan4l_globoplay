@@ -600,3 +600,27 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Pantanal - EP 88</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf3fb87aacc3e70d0080c5fd9f2fdb06ce5adbed</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Pantanal - EP 89</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43382de5bf316058094b6c51c88c8108ed00a97b</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Pantanal - EP 90</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b522ab15bb07606efc3bcef83209f74c98f5d0d</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
