@@ -624,3 +624,11 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Pantanal - EP 91</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b23e75f37db8b6d13b023462f584304b3fef38e1</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
