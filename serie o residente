@@ -53,7 +53,7 @@
 
 
 <item>
-<title>[COLOR white][B]The Resident S01 Leg[/B][/COLOR] </title>
+<title>[COLOR white][B]The Resident S04 (EN)[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e76e9096262704e3f1cc3d45b03503f55c374bf2</link>
 <thumbnail>https://dyncdn.me/static/20/tvdb/323362_banner_optimized.jpg</thumbnail>
 <genre>[I]Drama[/I]</genre>
@@ -70,3 +70,27 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/hhlIJ1Jo0C9yja53UsQC7Dye6kn.jpg</thumbnail>
 <genre>[I]Drama[/I]</genre>
 </item> 
+
+<item>
+<title>Episodio 011-13</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec9647d7a5504e13c2f5bb7ede5240c1db7451cd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hhlIJ1Jo0C9yja53UsQC7Dye6kn.jpg</thumbnail>
+</item>----------------------------------------
+<item>
+<title>Episodio 014</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dc37adaa6ae312ab0ac2ea02145fca78692887a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hhlIJ1Jo0C9yja53UsQC7Dye6kn.jpg</thumbnail>
+</item>
+----------------------------------------
+<item>
+<title>Episodio 015</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:680884d8832de193395b6888b4a767157d86c706</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hhlIJ1Jo0C9yja53UsQC7Dye6kn.jpg</thumbnail>
+</item>
+----------------------------------------
+<item>
+<title>Episodio 016-23</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3950a99b1843ab7d76aaf4bdbed37d6af4d88ff1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hhlIJ1Jo0C9yja53UsQC7Dye6kn.jpg</thumbnail>
+</item>
+----------------------------------------
