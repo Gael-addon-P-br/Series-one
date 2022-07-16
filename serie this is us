@@ -95,12 +95,6 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/dTqz1n6hulCdevPIgJ43Ve05Qfd.jpg</thumbnail>
 <genre></genre>
 </item> 
-
-<item>
-<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
-<thumbnail>https://image.tmdb.org/t/p/w342/dTqz1n6hulCdevPIgJ43Ve05Qfd.jpg</thumbnail>
-<genre></genre>
-</item>  
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
@@ -109,11 +103,6 @@
 <genre></genre>
 </item> 
 
-<item>
-<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
-<thumbnail>https://image.tmdb.org/t/p/w342/AptefJe8UWuZrRIeM8TI3cMHy6K.jpg</thumbnail>
-<genre></genre>
-</item> 
 
 
 <item>
@@ -193,8 +182,8 @@ link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0995bdd4fbdd9
 </item> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]5ª Temporada[/B][/COLOR] | Breve</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<title>[COLOR yellow][B]5ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7PQ67GINFMHKUAAVQNRZBK3JE666MRE5&dn=COMOEUBAIXO.COM..MKV.This.Is.Us.S05.1080p.WEB-DL.DUAL&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bPaVOvW2LK6oYrRv9Ybb196ywub.jpg</thumbnail>
 <genre></genre>
 </item> 
