@@ -648,3 +648,27 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Episodio 94</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:185f30130a3fb08efd129cd18c7d3d52d5044534</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 95</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07a8427041e922dcf79a953cb0f02688b12e777c</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 96</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67ae8b24f68fa39febb2e8e8817afbd9cab2ae80</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
