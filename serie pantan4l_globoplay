@@ -672,3 +672,35 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Episodio 97</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09a232c28fadecf11d816c7c01d444d74bb2bed</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 98</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faf18ac53b258d9981e029d657eef05f0b9a216c</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 99</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32a37fd2fb0dfb070e6adf381755bf5972ccac05</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 100</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ad0a7c99d761a46b8a9bf6f03f060ddd704bed6</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
