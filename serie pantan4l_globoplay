@@ -728,3 +728,19 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+<item>
+<title>Episodio 104</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48b21993d67ecdaae76c2beea5789459a3aa8467</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 105</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1075c5d3ab8237342cdcebe5d98646abf0dbfaab</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
