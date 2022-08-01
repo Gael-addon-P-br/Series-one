@@ -744,3 +744,28 @@
 <genre>Novela</genre>
 <duration>3000</duration>
 </item> 
+
+
+<item>
+<title>Episodio 106</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a2bc25a74d36d4312b78374c52fb595f346f85c2</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 107</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4cf9f085420f68b1eec7ac14e8866ff7d15b60d</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 108</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4535507b1e7fc89b8da669a69816db9708ecd71e</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
